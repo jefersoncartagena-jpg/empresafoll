@@ -1,2 +1,0 @@
-# empresafoll
-ceguir creando empresas 
